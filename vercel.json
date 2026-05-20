@@ -1,8 +1,4 @@
 {
   "buildCommand": "pnpm run build",
-  "installCommand": "pnpm install && pnpm approve-builds",
-  "outputDirectory": "dist",
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "outputDirectory": "dist"
 }
