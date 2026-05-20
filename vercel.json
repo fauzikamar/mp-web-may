@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "pnpm run build",
   "installCommand": "pnpm install && pnpm approve-builds",
   "outputDirectory": "dist",
   "env": {
